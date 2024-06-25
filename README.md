@@ -1,2 +1,2 @@
 # CouchMan
-Couchbase/Database Middleware
+-> Database Middleware
